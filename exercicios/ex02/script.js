@@ -36,7 +36,7 @@ function verificar() {
                 genero = 'um adulta'
                 img.setAttribute('src', 'img/adultafeminina.png')
             } else {
-                genero = 'um idasa'
+                genero = 'um idosa'
                 img.setAttribute('src', 'img/idosafeminina.png')
             }
         }
